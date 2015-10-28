@@ -35,6 +35,8 @@ end
 #include Twitter Bootstrap
 gem 'bootstrap-sass', '~> 3.2.0'
 
+#include Kaminari Paginator
+gem 'kaminari', '~> 0.16.3'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
